@@ -14,6 +14,14 @@ AI chat game
 
 ## Quickstart
 
+Create a `.secrets.json` file with the following content:
+
+```json
+{
+    "OPENAI_API_KEY": "YOUR OPEN AI API KEY GOES HERE"
+}
+```
+
 ```bash
 ai_chat_game
 ```

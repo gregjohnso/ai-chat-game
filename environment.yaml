@@ -4,5 +4,15 @@ channels:
 dependencies:
   - python=3.12
   - pip
+  - uv
   - pip:
       # Add any additional packages you want installed via pip here
+
+# To install this environment:
+# 1. Make sure you have Anaconda or Miniconda installed
+# 2. Open a terminal or command prompt
+# 3. Navigate to the directory containing this file
+# 4. Run the following command:
+#    conda env create -f environment.yaml
+# 5. Activate the environment with:
+#    conda activate ai_chat_game
