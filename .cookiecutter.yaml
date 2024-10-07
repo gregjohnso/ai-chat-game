@@ -1,0 +1,10 @@
+default_context:
+    author_name: "Gregory Johnson"
+    author_email: "gregjohnso@gmail.com"
+    hosting_github_username_or_org: "gregjohnso"
+    project_name: "AI Chat Game"
+    project_slug: "ai-chat-game"
+    python_slug: "ai_chat_game"
+    project_short_description: "AI chat game"
+    hosting_pypi_username: "gregjohnso"
+    license: "MIT License"
