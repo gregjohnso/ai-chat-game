@@ -1,0 +1,7 @@
+ai_chat_game
+============
+
+.. toctree::
+   :maxdepth: 4
+
+   ai_chat_game

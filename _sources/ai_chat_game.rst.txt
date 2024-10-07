@@ -1,0 +1,69 @@
+ai\_chat\_game package
+======================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   ai_chat_game.bin
+
+Submodules
+----------
+
+ai\_chat\_game.agents module
+----------------------------
+
+.. automodule:: ai_chat_game.agents
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ai\_chat\_game.display module
+-----------------------------
+
+.. automodule:: ai_chat_game.display
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ai\_chat\_game.example module
+-----------------------------
+
+.. automodule:: ai_chat_game.example
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ai\_chat\_game.main module
+--------------------------
+
+.. automodule:: ai_chat_game.main
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ai\_chat\_game.rules module
+---------------------------
+
+.. automodule:: ai_chat_game.rules
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ai\_chat\_game.secrets module
+-----------------------------
+
+.. automodule:: ai_chat_game.secrets
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: ai_chat_game
+   :members:
+   :undoc-members:
+   :show-inheritance:

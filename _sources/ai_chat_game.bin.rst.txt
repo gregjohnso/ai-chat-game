@@ -1,0 +1,21 @@
+ai\_chat\_game.bin package
+==========================
+
+Submodules
+----------
+
+ai\_chat\_game.bin.cli module
+-----------------------------
+
+.. automodule:: ai_chat_game.bin.cli
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: ai_chat_game.bin
+   :members:
+   :undoc-members:
+   :show-inheritance:
